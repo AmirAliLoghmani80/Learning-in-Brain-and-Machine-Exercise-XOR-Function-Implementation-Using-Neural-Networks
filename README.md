@@ -1,4 +1,4 @@
-# Learning-in-Brain-and-Machine-Exercise-XOR-Function-Implementation-Using-Neural-Networks
+# Learning in Brain and Machine Exercise XOR Function Implementation Using Neural Networks
 
 This project aims to implement the XOR function using a neural network, comparing two different training methods: **Error Backpropagation** and **Genetic Algorithm**. The XOR function presents a challenge for single-layer networks, so a multi-layer perceptron (MLP) with a 2:2:1 architecture (two hidden neurons and one output neuron) was used to solve the problem.
 
